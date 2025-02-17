@@ -20,6 +20,7 @@ An enhanced **KeplerGL map** visualizing the presence of solar installations acr
 
 #### 📜 LICENSE
 Contains the license governing the use and distribution of this project.
+
 ---
 
 This repository supports the study of solar panel adoption trends by leveraging GIS data and machine learning. Contributions and discussions are welcome!
